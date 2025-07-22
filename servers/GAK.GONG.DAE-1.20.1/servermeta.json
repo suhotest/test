@@ -1,0 +1,37 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/GAK.GONG.DAE/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "GAK.GONG.DAE (Minecraft 1.20.1)",
+    "description": "GAK.GONG.DAE Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "http://raw.githubusercontent.com/minsuho/GAK.GONG.DAE/refs/heads/main/icon.png",
+    "address": "1.251.106.160",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "config/*",
+        "config/**/*",
+        "**/*",
+        "**/**/*",
+        "**/**/**/*",
+        "**/**/**/**/*",
+        "**/**/**/**/**/*",
+        "**/**/**/**/**/**/*",
+        "**/**/**/**/**/**/**/*",
+        "**/**/**/**/**/**/**/**/*"
+      ]
+    }
+  ]
+}
